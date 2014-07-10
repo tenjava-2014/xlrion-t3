@@ -1,0 +1,3 @@
+name: xlrion-t3
+main: com.tenjava.entries.xlrion.t3.TenJava
+version: '${project.version}'
